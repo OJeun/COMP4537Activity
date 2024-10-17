@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzFunc", "AzFunc\AzFunc.csproj", "{5979057F-CDF4-4891-8753-3221528F5FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolLibrary", "SchoolLibrary\SchoolLibrary.csproj", "{BA010CAA-38CD-4A7B-94D6-01835B3C2988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsSPA", "StudentsSPA\StudentsSPA.csproj", "{3456DD73-47E3-4F3F-8C4D-9FF0AB85DB6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5979057F-CDF4-4891-8753-3221528F5FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5979057F-CDF4-4891-8753-3221528F5FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5979057F-CDF4-4891-8753-3221528F5FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5979057F-CDF4-4891-8753-3221528F5FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA010CAA-38CD-4A7B-94D6-01835B3C2988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA010CAA-38CD-4A7B-94D6-01835B3C2988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA010CAA-38CD-4A7B-94D6-01835B3C2988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA010CAA-38CD-4A7B-94D6-01835B3C2988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3456DD73-47E3-4F3F-8C4D-9FF0AB85DB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3456DD73-47E3-4F3F-8C4D-9FF0AB85DB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3456DD73-47E3-4F3F-8C4D-9FF0AB85DB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3456DD73-47E3-4F3F-8C4D-9FF0AB85DB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
